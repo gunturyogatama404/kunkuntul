@@ -1,11 +1,9 @@
 # OASIS AI BETA CLI VERSION
 
-![banner](image-1.png)
 AI inference powered by distributed compute
 
 # Features
 
-![Banner](image.png)
 
 - **Register/Login Accounts**
 
@@ -32,7 +30,7 @@ so if you want create multiple providers you need to put multiple proxy there.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Zlkcyber/oasis-bot.git
+   git clone https://IKSANNURPADILLAH/oas.git
    cd oasis-bot
    ```
 
@@ -66,6 +64,3 @@ so if you want create multiple providers you need to put multiple proxy there.
    npm run start
    ```
 
-## ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-This project is licensed under the [MIT License](LICENSE).

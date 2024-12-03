@@ -30,7 +30,7 @@ so if you want create multiple providers you need to put multiple proxy there.
 1. Clone this repository:
 
    ```bash
-   git clone https://IKSANNURPADILLAH/oas.git
+   git clone https://github.com/IKSANNURPADILLAH/oas.git
    cd oas
    ```
 

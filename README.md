@@ -31,7 +31,7 @@ so if you want create multiple providers you need to put multiple proxy there.
 
    ```bash
    git clone https://IKSANNURPADILLAH/oas.git
-   cd oasis-bot
+   cd oas
    ```
 
 2. Install dependencies:
